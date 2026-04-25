@@ -395,7 +395,7 @@ app.post('/api/transcribe/upload', express.raw({ type: 'application/octet-stream
 });
 
 app.post('/api/transcribe/start', (req, res) => {
-    const body = JSON.stringify({ ...req.body });
+    const body = JSON.stringify({ ...req.body, speech_model: "universal-2" });
     const options = {
         hostname: 'api.assemblyai.com', path: '/v2/transcript', method: 'POST', timeout: 15000,
         headers: { 'authorization': ASSEMBLY_KEY, 'content-type': 'application/json', 'content-length': Buffer.byteLength(body) }
