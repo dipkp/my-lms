@@ -1,0 +1,1255 @@
+[
+  {
+    "id": 2,
+    "word": "days",
+    "meaning": "",
+    "synonyms": "nowadays, these days, in modern times, currently, at present",
+    "category": "Education"
+  },
+  {
+    "id": 3,
+    "word": "many",
+    "meaning": "",
+    "synonyms": "numerous, many a, a large number of, countless, several",
+    "category": "Education"
+  },
+  {
+    "id": 4,
+    "word": "children",
+    "meaning": "",
+    "synonyms": "youngsters, minors, kids, the young, juveniles",
+    "category": "Education"
+  },
+  {
+    "id": 5,
+    "word": "difficulty",
+    "meaning": "",
+    "synonyms": "trouble, problem, challenge, hardship, obstacle",
+    "category": "Education"
+  },
+  {
+    "id": 6,
+    "word": "paying attention",
+    "meaning": "",
+    "synonyms": "focusing, concentrating, staying attentive, listening carefully, engaging mentally",
+    "category": "Education"
+  },
+  {
+    "id": 7,
+    "word": "concentration",
+    "meaning": "",
+    "synonyms": "focus, attentiveness, mental focus, attention span, absorption",
+    "category": "Education"
+  },
+  {
+    "id": 8,
+    "word": "classes",
+    "meaning": "",
+    "synonyms": "lessons, lectures, sessions, periods, tutorials",
+    "category": "Education"
+  },
+  {
+    "id": 9,
+    "word": "school",
+    "meaning": "",
+    "synonyms": "educational institution, academy, schooling environment, learning centre, institution",
+    "category": "Education"
+  },
+  {
+    "id": 10,
+    "word": "giving lectures",
+    "meaning": "",
+    "synonyms": "delivering lectures, presenting lessons, teaching formally, addressing a class, providing instruction",
+    "category": "Education"
+  },
+  {
+    "id": 11,
+    "word": "large number",
+    "meaning": "",
+    "synonyms": "great number, considerable number, substantial number, high proportion, large proportion",
+    "category": "Education"
+  },
+  {
+    "id": 12,
+    "word": "student",
+    "meaning": "",
+    "synonyms": "pupil, learner, schoolchild, undergraduate, candidate",
+    "category": "Education"
+  },
+  {
+    "id": 13,
+    "word": "old way",
+    "meaning": "",
+    "synonyms": "traditional method, conventional approach, outdated system, old-fashioned way, long-established method",
+    "category": "Education"
+  },
+  {
+    "id": 14,
+    "word": "teaching",
+    "meaning": "",
+    "synonyms": "instruction, education, tuition, pedagogy, training",
+    "category": "Education"
+  },
+  {
+    "id": 15,
+    "word": "technology",
+    "meaning": "",
+    "synonyms": "digital tools, modern technology, technological resources, IT, electronic media",
+    "category": "Education"
+  },
+  {
+    "id": 16,
+    "word": "available",
+    "meaning": "",
+    "synonyms": "accessible, obtainable, within reach, on hand, readily available",
+    "category": "Education"
+  },
+  {
+    "id": 17,
+    "word": "today",
+    "meaning": "",
+    "synonyms": "nowadays, at present, in contemporary society, currently, these days",
+    "category": "Education"
+  },
+  {
+    "id": 18,
+    "word": "justification",
+    "meaning": "",
+    "synonyms": "reason, rationale, grounds, basis, valid explanation",
+    "category": "Education"
+  },
+  {
+    "id": 19,
+    "word": "online",
+    "meaning": "",
+    "synonyms": "internet-based, web-based, virtual, digital, remote",
+    "category": "Education"
+  },
+  {
+    "id": 20,
+    "word": "people",
+    "meaning": "",
+    "synonyms": "individuals, citizens, members of society, the public, human beings",
+    "category": "Education"
+  },
+  {
+    "id": 21,
+    "word": "think",
+    "meaning": "",
+    "synonyms": "believe, argue, contend, maintain, hold the view",
+    "category": "Education"
+  },
+  {
+    "id": 22,
+    "word": "graduate",
+    "meaning": "",
+    "synonyms": "degree holder, university leaver, alumnus, qualified student, postgraduate",
+    "category": "Education"
+  },
+  {
+    "id": 23,
+    "word": "knowledge",
+    "meaning": "",
+    "synonyms": "understanding, awareness, expertise, information, learning",
+    "category": "Education"
+  },
+  {
+    "id": 24,
+    "word": "skill",
+    "meaning": "",
+    "synonyms": "ability, competence, capability, proficiency, talent",
+    "category": "Education"
+  },
+  {
+    "id": 25,
+    "word": "workplace",
+    "meaning": "",
+    "synonyms": "office, working environment, job market, professional setting, place of work",
+    "category": "Education"
+  },
+  {
+    "id": 26,
+    "word": "function",
+    "meaning": "",
+    "synonyms": "operate, work effectively, perform, serve, carry out a role",
+    "category": "Education"
+  },
+  {
+    "id": 27,
+    "word": "access",
+    "meaning": "",
+    "synonyms": "obtain, use, reach, gain entry to, benefit from",
+    "category": "Education"
+  },
+  {
+    "id": 28,
+    "word": "sake",
+    "meaning": "",
+    "synonyms": "benefit, purpose, interest, good, advantage",
+    "category": "Education"
+  },
+  {
+    "id": 29,
+    "word": "regardless",
+    "meaning": "",
+    "synonyms": "irrespective of, despite, without considering, independent of, whether or not",
+    "category": "Education"
+  },
+  {
+    "id": 30,
+    "word": "course",
+    "meaning": "",
+    "synonyms": "programme, subject, module, training course, academic programme",
+    "category": "Education"
+  },
+  {
+    "id": 31,
+    "word": "employer",
+    "meaning": "",
+    "synonyms": "company, firm, organisation, boss, recruiter",
+    "category": "Education"
+  },
+  {
+    "id": 32,
+    "word": "achieve",
+    "meaning": "",
+    "synonyms": "attain, accomplish, reach, fulfil, secure",
+    "category": "Education"
+  },
+  {
+    "id": 33,
+    "word": "best",
+    "meaning": "",
+    "synonyms": "optimal, most effective, ideal, finest, most suitable",
+    "category": "Education"
+  },
+  {
+    "id": 34,
+    "word": "academic",
+    "meaning": "",
+    "synonyms": "educational, scholarly, school-related, formal, study-based",
+    "category": "Education"
+  },
+  {
+    "id": 35,
+    "word": "rewarded",
+    "meaning": "",
+    "synonyms": "recognised, praised, compensated, acknowledged, given incentives",
+    "category": "Education"
+  },
+  {
+    "id": 36,
+    "word": "important",
+    "meaning": "",
+    "synonyms": "significant, crucial, vital, essential, key",
+    "category": "Education"
+  },
+  {
+    "id": 37,
+    "word": "improvement",
+    "meaning": "",
+    "synonyms": "progress, enhancement, development, advancement, betterment",
+    "category": "Education"
+  },
+  {
+    "id": 38,
+    "word": "boys & girls",
+    "meaning": "",
+    "synonyms": "male and female students, boys and girls, both genders, schoolchildren of both sexes, students of both sexes",
+    "category": "Education"
+  },
+  {
+    "id": 39,
+    "word": "separate",
+    "meaning": "",
+    "synonyms": "single-sex, divided, segregated, split, kept apart",
+    "category": "Education"
+  },
+  {
+    "id": 40,
+    "word": "attending",
+    "meaning": "",
+    "synonyms": "going to, enrolling in, participating in, studying at, being present at",
+    "category": "Education"
+  },
+  {
+    "id": 41,
+    "word": "mixed school",
+    "meaning": "",
+    "synonyms": "co-educational school, mixed-gender school, co-ed institution, school for both sexes, integrated school",
+    "category": "Education"
+  },
+  {
+    "id": 42,
+    "word": "argue",
+    "meaning": "",
+    "synonyms": "claim, assert, contend, maintain, state",
+    "category": "Education"
+  },
+  {
+    "id": 43,
+    "word": "order to improve",
+    "meaning": "",
+    "synonyms": "to enhance, so as to improve, with the aim of improving, to boost, to raise",
+    "category": "Education"
+  },
+  {
+    "id": 44,
+    "word": "education quality",
+    "meaning": "",
+    "synonyms": "quality of education, educational standards, teaching standards, learning outcomes, academic quality",
+    "category": "Education"
+  },
+  {
+    "id": 45,
+    "word": "free education",
+    "meaning": "",
+    "synonyms": "tuition-free education, state-funded education, publicly funded education, cost-free schooling, free schooling",
+    "category": "Education"
+  },
+  {
+    "id": 46,
+    "word": "everyone",
+    "meaning": "",
+    "synonyms": "all people, the whole population, every citizen, all individuals, the public at large",
+    "category": "Education"
+  },
+  {
+    "id": 47,
+    "word": "income",
+    "meaning": "",
+    "synonyms": "earnings, salary, wages, household income, financial resources",
+    "category": "Education"
+  },
+  {
+    "id": 48,
+    "word": "aim",
+    "meaning": "",
+    "synonyms": "goal, objective, purpose, intention, target",
+    "category": "Education"
+  },
+  {
+    "id": 49,
+    "word": "help",
+    "meaning": "",
+    "synonyms": "assist, support, aid, benefit, contribute to",
+    "category": "Education"
+  },
+  {
+    "id": 50,
+    "word": "better",
+    "meaning": "",
+    "synonyms": "improve, enhance, strengthen, boost, make more effective",
+    "category": "Education"
+  },
+  {
+    "id": 51,
+    "word": "wider benefit",
+    "meaning": "",
+    "synonyms": "broader advantage, greater social benefit, overall benefit, collective gain, long-term benefit",
+    "category": "Education"
+  },
+  {
+    "id": 52,
+    "word": "individual",
+    "meaning": "",
+    "synonyms": "person, citizen, member of society, human being, one person",
+    "category": "Education"
+  },
+  {
+    "id": 53,
+    "word": "society",
+    "meaning": "",
+    "synonyms": "community, the public, the nation, social group, population",
+    "category": "Education"
+  },
+  {
+    "id": 54,
+    "word": "year off",
+    "meaning": "",
+    "synonyms": "gap year, break from study, year-long break, sabbatical year, study break",
+    "category": "Education"
+  },
+  {
+    "id": 55,
+    "word": "work",
+    "meaning": "",
+    "synonyms": "be employed, take a job, gain employment, do paid work, enter the workforce",
+    "category": "Education"
+  },
+  {
+    "id": 56,
+    "word": "travel",
+    "meaning": "",
+    "synonyms": "go abroad, tour, journey, visit other places, explore",
+    "category": "Education"
+  },
+  {
+    "id": 57,
+    "word": "international tourism",
+    "meaning": "",
+    "synonyms": "global tourism, overseas travel industry, foreign tourism, cross-border tourism, international travel",
+    "category": "Education"
+  },
+  {
+    "id": 58,
+    "word": "bad",
+    "meaning": "",
+    "synonyms": "harmful, negative, detrimental, adverse, damaging",
+    "category": "Education"
+  },
+  {
+    "id": 59,
+    "word": "country",
+    "meaning": "",
+    "synonyms": "nation, state, homeland, host country, society",
+    "category": "Education"
+  },
+  {
+    "id": 60,
+    "word": "attitude",
+    "meaning": "",
+    "synonyms": "mindset, approach, viewpoint, outlook, perspective",
+    "category": "Education"
+  },
+  {
+    "id": 61,
+    "word": "show",
+    "meaning": "",
+    "synonyms": "demonstrate, display, indicate, reveal, reflect",
+    "category": "Education"
+  },
+  {
+    "id": 62,
+    "word": "improvements",
+    "meaning": "",
+    "synonyms": "changes for the better, developments, advances, enhancements, progress",
+    "category": "Education"
+  },
+  {
+    "id": 63,
+    "word": "high school",
+    "meaning": "",
+    "synonyms": "secondary school, senior school, upper secondary school, high-school level, secondary education stage",
+    "category": "Education"
+  },
+  {
+    "id": 64,
+    "word": "encouragement",
+    "meaning": "",
+    "synonyms": "support, motivation, positive reinforcement, guidance, inspiration",
+    "category": "Education"
+  },
+  {
+    "id": 65,
+    "word": "make comment",
+    "meaning": "",
+    "synonyms": "give feedback, remark, express an opinion, state a view, respond",
+    "category": "Education"
+  },
+  {
+    "id": 66,
+    "word": "even criticism",
+    "meaning": "",
+    "synonyms": "including criticism, critical feedback, negative comments, constructive criticism, adverse remarks",
+    "category": "Education"
+  },
+  {
+    "id": 67,
+    "word": "lead to",
+    "meaning": "",
+    "synonyms": "result in, bring about, cause, contribute to, give rise to",
+    "category": "Education"
+  },
+  {
+    "id": 68,
+    "word": "respect",
+    "meaning": "",
+    "synonyms": "regard, admiration, esteem, consideration, deference",
+    "category": "Education"
+  },
+  {
+    "id": 69,
+    "word": "discipline",
+    "meaning": "",
+    "synonyms": "self-control, order, good behaviour, obedience, strict conduct",
+    "category": "Education"
+  },
+  {
+    "id": 70,
+    "word": "necessary",
+    "meaning": "",
+    "synonyms": "essential, needed, vital, indispensable, important",
+    "category": "Education"
+  },
+  {
+    "id": 71,
+    "word": "no longer",
+    "meaning": "",
+    "synonyms": "not anymore, no more, no longer needed, obsolete now, not currently",
+    "category": "Education"
+  },
+  {
+    "id": 72,
+    "word": "libraries",
+    "meaning": "",
+    "synonyms": "public libraries, community libraries, libraries and archives, reading centres, library services",
+    "category": "Education"
+  },
+  {
+    "id": 73,
+    "word": "provide",
+    "meaning": "",
+    "synonyms": "offer, supply, deliver, give, make available",
+    "category": "Education"
+  },
+  {
+    "id": 74,
+    "word": "general education",
+    "meaning": "",
+    "synonyms": "broad education, well-rounded education, general learning, comprehensive education, liberal education",
+    "category": "Education"
+  },
+  {
+    "id": 75,
+    "word": "secondary school",
+    "meaning": "",
+    "synonyms": "high school, upper school, senior school, secondary education, school at secondary level",
+    "category": "Education"
+  },
+  {
+    "id": 76,
+    "word": "across",
+    "meaning": "",
+    "synonyms": "throughout, through, in all parts of, all over, throughout the whole",
+    "category": "Education"
+  },
+  {
+    "id": 77,
+    "word": "range of",
+    "meaning": "",
+    "synonyms": "variety of, selection of, array of, broad spectrum of, set of",
+    "category": "Education"
+  },
+  {
+    "id": 78,
+    "word": "focus",
+    "meaning": "",
+    "synonyms": "concentrate on, emphasise, prioritise, centre on, give attention to",
+    "category": "Education"
+  },
+  {
+    "id": 79,
+    "word": "narrow range of",
+    "meaning": "",
+    "synonyms": "limited range of, small selection of, restricted range of, specific set of, few selected",
+    "category": "Education"
+  },
+  {
+    "id": 80,
+    "word": "related",
+    "meaning": "",
+    "synonyms": "connected, linked, associated, relevant, pertinent",
+    "category": "Education"
+  },
+  {
+    "id": 81,
+    "word": "particular",
+    "meaning": "",
+    "synonyms": "specific, certain, specialised, chosen, individual",
+    "category": "Education"
+  },
+  {
+    "id": 82,
+    "word": "career",
+    "meaning": "",
+    "synonyms": "profession, occupation, job path, working life, vocational path",
+    "category": "Education"
+  },
+  {
+    "id": 83,
+    "word": "scientist",
+    "meaning": "",
+    "synonyms": "researcher, science professional, laboratory expert, academic scientist, scientific worker",
+    "category": "Education"
+  },
+  {
+    "id": 84,
+    "word": "damaging",
+    "meaning": "",
+    "synonyms": "harmful, detrimental, injurious, adverse, destructive",
+    "category": "Education"
+  },
+  {
+    "id": 85,
+    "word": "health",
+    "meaning": "",
+    "synonyms": "well-being, physical condition, fitness, general health, state of health",
+    "category": "Education"
+  },
+  {
+    "id": 86,
+    "word": "eating too much junk food",
+    "meaning": "",
+    "synonyms": "overconsuming fast food, having an unhealthy diet, eating excessive processed food, consuming too much unhealthy food, poor eating habits",
+    "category": "Education"
+  },
+  {
+    "id": 87,
+    "word": "answer",
+    "meaning": "",
+    "synonyms": "solution, response, way forward, remedy, approach",
+    "category": "Education"
+  },
+  {
+    "id": 88,
+    "word": "problem",
+    "meaning": "",
+    "synonyms": "issue, difficulty, challenge, concern, trouble",
+    "category": "Education"
+  },
+  {
+    "id": 89,
+    "word": "educate",
+    "meaning": "",
+    "synonyms": "teach, inform, raise awareness among, train, guide",
+    "category": "Education"
+  },
+  {
+    "id": 90,
+    "word": "emphasis",
+    "meaning": "",
+    "synonyms": "focus, priority, stress, attention, importance",
+    "category": "Education"
+  },
+  {
+    "id": 91,
+    "word": "vocational training",
+    "meaning": "",
+    "synonyms": "job training, career training, skills training, technical education, trade education",
+    "category": "Education"
+  },
+  {
+    "id": 92,
+    "word": "lack of",
+    "meaning": "",
+    "synonyms": "shortage of, absence of, insufficient, scarcity of, deficiency in",
+    "category": "Education"
+  },
+  {
+    "id": 93,
+    "word": "qualified",
+    "meaning": "",
+    "synonyms": "skilled, trained, certified, competent, well-prepared",
+    "category": "Education"
+  },
+  {
+    "id": 94,
+    "word": "tradespeople",
+    "meaning": "",
+    "synonyms": "skilled workers, craftspeople, trade workers, technicians, manual workers",
+    "category": "Education"
+  },
+  {
+    "id": 95,
+    "word": "learn",
+    "meaning": "",
+    "synonyms": "study, gain knowledge of, be taught about, become familiar with, discover",
+    "category": "Education"
+  },
+  {
+    "id": 96,
+    "word": "local history",
+    "meaning": "",
+    "synonyms": "regional history, community history, history of one's area, native history, local heritage",
+    "category": "Education"
+  },
+  {
+    "id": 97,
+    "word": "world history",
+    "meaning": "",
+    "synonyms": "global history, international history, history of the world, worldwide historical events, human history",
+    "category": "Education"
+  },
+  {
+    "id": 98,
+    "word": "government",
+    "meaning": "",
+    "synonyms": "state, authorities, public sector, administration, policy-makers",
+    "category": "Education"
+  },
+  {
+    "id": 99,
+    "word": "spend money",
+    "meaning": "",
+    "synonyms": "invest, allocate funds, put money into, finance, fund",
+    "category": "Education"
+  },
+  {
+    "id": 100,
+    "word": "building",
+    "meaning": "",
+    "synonyms": "construction, developing, creating, establishing, erecting",
+    "category": "Education"
+  },
+  {
+    "id": 101,
+    "word": "reduce",
+    "meaning": "",
+    "synonyms": "decrease, cut, lower, minimise, ease",
+    "category": "Education"
+  },
+  {
+    "id": 102,
+    "word": "traffic congestion",
+    "meaning": "",
+    "synonyms": "traffic jams, road congestion, heavy traffic, gridlock, traffic build-up",
+    "category": "Education"
+  },
+  {
+    "id": 103,
+    "word": "roads",
+    "meaning": "",
+    "synonyms": "highways, streets, road networks, transport routes, carriageways",
+    "category": "Education"
+  },
+  {
+    "id": 104,
+    "word": "better way to",
+    "meaning": "",
+    "synonyms": "more effective way to, superior method of, best means of, improved approach to, more practical solution for",
+    "category": "Education"
+  },
+  {
+    "id": 105,
+    "word": "prison",
+    "meaning": "",
+    "synonyms": "jail, correctional facility, detention centre, penal institution, custodial sentence",
+    "category": "Education"
+  },
+  {
+    "id": 106,
+    "word": "common",
+    "meaning": "",
+    "synonyms": "widespread, frequent, prevalent, usual, ordinary",
+    "category": "Education"
+  },
+  {
+    "id": 107,
+    "word": "solve",
+    "meaning": "",
+    "synonyms": "tackle, address, deal with, resolve, overcome",
+    "category": "Education"
+  },
+  {
+    "id": 108,
+    "word": "problem of crime",
+    "meaning": "",
+    "synonyms": "crime issue, criminal activity problem, issue of offending, rising crime, crime-related problem",
+    "category": "Education"
+  },
+  {
+    "id": 109,
+    "word": "effective solution",
+    "meaning": "",
+    "synonyms": "successful measure, practical remedy, viable solution, powerful response, useful strategy",
+    "category": "Education"
+  },
+  {
+    "id": 110,
+    "word": "observe",
+    "meaning": "",
+    "synonyms": "notice, see, witness, point out, note",
+    "category": "Education"
+  },
+  {
+    "id": 111,
+    "word": "not enough",
+    "meaning": "",
+    "synonyms": "insufficient, inadequate, too few, limited, not sufficient",
+    "category": "Education"
+  },
+  {
+    "id": 112,
+    "word": "choosing",
+    "meaning": "",
+    "synonyms": "selecting, opting for, deciding on, pursuing, preferring",
+    "category": "Education"
+  },
+  {
+    "id": 113,
+    "word": "study",
+    "meaning": "",
+    "synonyms": "learn, pursue, take, be educated in, undertake",
+    "category": "Education"
+  },
+  {
+    "id": 114,
+    "word": "science subject",
+    "meaning": "",
+    "synonyms": "scientific discipline, science course, STEM subject, science-based field, scientific subject",
+    "category": "Education"
+  },
+  {
+    "id": 115,
+    "word": "developing countries",
+    "meaning": "",
+    "synonyms": "less developed countries, emerging nations, low-income countries, the developing world, growth economies",
+    "category": "Education"
+  },
+  {
+    "id": 116,
+    "word": "rural communities",
+    "meaning": "",
+    "synonyms": "villages, countryside areas, remote communities, rural areas, farming communities",
+    "category": "Education"
+  },
+  {
+    "id": 117,
+    "word": "computer and internet",
+    "meaning": "",
+    "synonyms": "digital technology, computers and online access, ICT and internet, digital devices and connectivity, internet-enabled technology",
+    "category": "Education"
+  },
+  {
+    "id": 118,
+    "word": "men and women",
+    "meaning": "",
+    "synonyms": "males and females, both sexes, both genders, men and women alike, people of both genders",
+    "category": "Education"
+  },
+  {
+    "id": 119,
+    "word": "different qualities",
+    "meaning": "",
+    "synonyms": "distinct traits, different characteristics, separate strengths, varied abilities, contrasting attributes",
+    "category": "Education"
+  },
+  {
+    "id": 120,
+    "word": "certain",
+    "meaning": "",
+    "synonyms": "specific, particular, some, selected, particular kinds of",
+    "category": "Education"
+  },
+  {
+    "id": 121,
+    "word": "suitable",
+    "meaning": "",
+    "synonyms": "appropriate, well-suited, fitting, ideal, acceptable",
+    "category": "Education"
+  },
+  {
+    "id": 122,
+    "word": "offer",
+    "meaning": "",
+    "synonyms": "provide, present, make available, give, deliver",
+    "category": "Education"
+  },
+  {
+    "id": 123,
+    "word": "online courses",
+    "meaning": "",
+    "synonyms": "virtual courses, web-based programmes, internet classes, distance-learning courses, digital programmes",
+    "category": "Education"
+  },
+  {
+    "id": 124,
+    "word": "alternative",
+    "meaning": "",
+    "synonyms": "substitute, other option, replacement, different choice, another approach",
+    "category": "Education"
+  },
+  {
+    "id": 125,
+    "word": "classes delivered on campus",
+    "meaning": "",
+    "synonyms": "face-to-face classes, campus-based lessons, in-person teaching, traditional classroom teaching, on-site classes",
+    "category": "Education"
+  },
+  {
+    "id": 126,
+    "word": "admire",
+    "meaning": "",
+    "synonyms": "look up to, respect, regard highly, appreciate, idolise",
+    "category": "Education"
+  },
+  {
+    "id": 127,
+    "word": "sports stars",
+    "meaning": "",
+    "synonyms": "athletes, sporting celebrities, famous players, sports figures, professional sportspeople",
+    "category": "Education"
+  },
+  {
+    "id": 128,
+    "word": "set",
+    "meaning": "",
+    "synonyms": "provide, create, establish, serve as, form",
+    "category": "Education"
+  },
+  {
+    "id": 129,
+    "word": "often",
+    "meaning": "",
+    "synonyms": "frequently, regularly, commonly, many times, repeatedly",
+    "category": "Education"
+  },
+  {
+    "id": 130,
+    "word": "good example",
+    "meaning": "",
+    "synonyms": "positive role model, strong example, excellent model, good role model, valuable example",
+    "category": "Education"
+  },
+  {
+    "id": 131,
+    "word": "kind to",
+    "meaning": "",
+    "synonyms": "respectful towards, considerate of, gentle with, caring towards, supportive of",
+    "category": "Education"
+  },
+  {
+    "id": 132,
+    "word": "girls",
+    "meaning": "",
+    "synonyms": "female students, young women, schoolgirls, girls and young women, female children",
+    "category": "Education"
+  },
+  {
+    "id": 133,
+    "word": "far away",
+    "meaning": "",
+    "synonyms": "distant, remote, a long way away, far from home, in another area",
+    "category": "Education"
+  },
+  {
+    "id": 134,
+    "word": "leave home",
+    "meaning": "",
+    "synonyms": "move away from home, live independently, relocate, move out, go away from family",
+    "category": "Education"
+  },
+  {
+    "id": 135,
+    "word": "parents",
+    "meaning": "",
+    "synonyms": "mother and father, guardians, family, caregivers, parental figures",
+    "category": "Education"
+  },
+  {
+    "id": 136,
+    "word": "growing number",
+    "meaning": "",
+    "synonyms": "increasing number, rising number, larger proportion, mounting number, upward trend in",
+    "category": "Education"
+  },
+  {
+    "id": 137,
+    "word": "overweight",
+    "meaning": "",
+    "synonyms": "obese, above a healthy weight, heavier than ideal, excessively heavy, suffering from excess weight",
+    "category": "Education"
+  },
+  {
+    "id": 138,
+    "word": "putting strain on healthcare",
+    "meaning": "",
+    "synonyms": "placing pressure on health services, burdening the healthcare system, creating stress for hospitals, increasing healthcare pressure, adding pressure to medical services",
+    "category": "Education"
+  },
+  {
+    "id": 139,
+    "word": "deal with",
+    "meaning": "",
+    "synonyms": "address, tackle, cope with, handle, manage",
+    "category": "Education"
+  },
+  {
+    "id": 140,
+    "word": "issues involve",
+    "meaning": "",
+    "synonyms": "issues include, problems involve, matters relate to, challenges concern, issues cover",
+    "category": "Education"
+  },
+  {
+    "id": 141,
+    "word": "introduce",
+    "meaning": "",
+    "synonyms": "bring in, implement, establish, launch, start",
+    "category": "Education"
+  },
+  {
+    "id": 142,
+    "word": "physical education lessons",
+    "meaning": "",
+    "synonyms": "PE classes, sports lessons, fitness classes, exercise sessions, physical training classes",
+    "category": "Education"
+  },
+  {
+    "id": 143,
+    "word": "curriculum",
+    "meaning": "",
+    "synonyms": "syllabus, course content, programme of study, educational programme, school curriculum",
+    "category": "Education"
+  },
+  {
+    "id": 144,
+    "word": "job",
+    "meaning": "",
+    "synonyms": "occupation, profession, career, position, employment",
+    "category": "Education"
+  },
+  {
+    "id": 145,
+    "word": "complete",
+    "meaning": "",
+    "synonyms": "full, comprehensive, thorough, all-round, well-developed",
+    "category": "Education"
+  },
+  {
+    "id": 146,
+    "word": "soft skills",
+    "meaning": "",
+    "synonyms": "interpersonal skills, people skills, communication skills, transferable skills, personal skills",
+    "category": "Education"
+  },
+  {
+    "id": 147,
+    "word": "teenager",
+    "meaning": "",
+    "synonyms": "adolescent, young person, youth, young adult, school-age child",
+    "category": "Education"
+  },
+  {
+    "id": 148,
+    "word": "concentrate on",
+    "meaning": "",
+    "synonyms": "focus on, pay attention to, give priority to, devote attention to, work on",
+    "category": "Education"
+  },
+  {
+    "id": 149,
+    "word": "all subjects",
+    "meaning": "",
+    "synonyms": "every subject, the full range of subjects, all school disciplines, the whole curriculum, all academic areas",
+    "category": "Education"
+  },
+  {
+    "id": 150,
+    "word": "focus on",
+    "meaning": "",
+    "synonyms": "specialise in, concentrate on, prioritise, devote attention to, target",
+    "category": "Education"
+  },
+  {
+    "id": 151,
+    "word": "best interests",
+    "meaning": "",
+    "synonyms": "greatest benefit, well-being, long-term good, advantage, overall welfare",
+    "category": "Education"
+  },
+  {
+    "id": 152,
+    "word": "say",
+    "meaning": "",
+    "synonyms": "argue, claim, state, suggest, maintain",
+    "category": "Education"
+  },
+  {
+    "id": 153,
+    "word": "only guarantee",
+    "meaning": "",
+    "synonyms": "sole assurance, only way to ensure, single guarantee, best guarantee, surest way",
+    "category": "Education"
+  },
+  {
+    "id": 154,
+    "word": "start offering",
+    "meaning": "",
+    "synonyms": "begin providing, launch, introduce, commence offering, make available",
+    "category": "Education"
+  },
+  {
+    "id": 155,
+    "word": "after",
+    "meaning": "",
+    "synonyms": "following, once, subsequent to, later than, in the period after",
+    "category": "Education"
+  },
+  {
+    "id": 156,
+    "word": "gain",
+    "meaning": "",
+    "synonyms": "acquire, obtain, develop, build, secure",
+    "category": "Education"
+  },
+  {
+    "id": 157,
+    "word": "overseas",
+    "meaning": "",
+    "synonyms": "abroad, in a foreign country, internationally, outside one's country, in another nation",
+    "category": "Education"
+  },
+  {
+    "id": 158,
+    "word": "disappointed",
+    "meaning": "",
+    "synonyms": "dissatisfied, let down, unhappy, discouraged, frustrated",
+    "category": "Education"
+  },
+  {
+    "id": 159,
+    "word": "abroad",
+    "meaning": "",
+    "synonyms": "overseas, in another country, internationally, outside the country, foreign",
+    "category": "Education"
+  },
+  {
+    "id": 160,
+    "word": "immigrants",
+    "meaning": "",
+    "synonyms": "migrants, newcomers, foreign-born residents, settlers, people who move abroad",
+    "category": "Education"
+  },
+  {
+    "id": 161,
+    "word": "clothes",
+    "meaning": "",
+    "synonyms": "clothing, garments, attire, outfits, dress",
+    "category": "Education"
+  },
+  {
+    "id": 162,
+    "word": "uniform",
+    "meaning": "",
+    "synonyms": "standard clothing, school uniform, set dress code, regulation attire, prescribed outfit",
+    "category": "Education"
+  },
+  {
+    "id": 163,
+    "word": "essential",
+    "meaning": "",
+    "synonyms": "necessary, vital, crucial, indispensable, important",
+    "category": "Education"
+  },
+  {
+    "id": 164,
+    "word": "modern society",
+    "meaning": "",
+    "synonyms": "contemporary society, today's world, present-day society, modern-day life, current society",
+    "category": "Education"
+  },
+  {
+    "id": 165,
+    "word": "specialist",
+    "meaning": "",
+    "synonyms": "expert, professional, specialised worker, authority, trained specialist",
+    "category": "Education"
+  },
+  {
+    "id": 166,
+    "word": "certain jobs",
+    "meaning": "",
+    "synonyms": "specific occupations, particular professions, selected careers, some jobs, specialised roles",
+    "category": "Education"
+  },
+  {
+    "id": 167,
+    "word": "pay",
+    "meaning": "",
+    "synonyms": "salary, wages, income, earnings, remuneration",
+    "category": "Education"
+  },
+  {
+    "id": 168,
+    "word": "funding",
+    "meaning": "",
+    "synonyms": "financial support, finance, investment, budget allocation, monetary assistance",
+    "category": "Education"
+  },
+  {
+    "id": 169,
+    "word": "receive",
+    "meaning": "",
+    "synonyms": "get, obtain, be given, gain, secure",
+    "category": "Education"
+  },
+  {
+    "id": 170,
+    "word": "relevant",
+    "meaning": "",
+    "synonyms": "applicable, related, pertinent, useful, appropriate",
+    "category": "Education"
+  },
+  {
+    "id": 171,
+    "word": "far too dependent on",
+    "meaning": "",
+    "synonyms": "overly reliant on, too dependent on, excessively reliant on, heavily dependent on, too much based on",
+    "category": "Education"
+  },
+  {
+    "id": 172,
+    "word": "alarming effect",
+    "meaning": "",
+    "synonyms": "serious impact, worrying consequence, harmful effect, disturbing result, negative impact",
+    "category": "Education"
+  },
+  {
+    "id": 173,
+    "word": "avoid",
+    "meaning": "",
+    "synonyms": "prevent, stay away from, escape, keep away from, steer clear of",
+    "category": "Education"
+  },
+  {
+    "id": 174,
+    "word": "classroom",
+    "meaning": "",
+    "synonyms": "class, learning environment, teaching room, schoolroom, lecture room",
+    "category": "Education"
+  },
+  {
+    "id": 175,
+    "word": "church",
+    "meaning": "",
+    "synonyms": "religious institution, place of worship, faith organisation, religious body, church authority",
+    "category": "Education"
+  },
+  {
+    "id": 176,
+    "word": "law",
+    "meaning": "",
+    "synonyms": "legal system, legislation, rule of law, legal framework, statute",
+    "category": "Education"
+  },
+  {
+    "id": 177,
+    "word": "solely",
+    "meaning": "",
+    "synonyms": "only, entirely, exclusively, purely, just",
+    "category": "Education"
+  },
+  {
+    "id": 178,
+    "word": "money",
+    "meaning": "",
+    "synonyms": "wealth, income, finances, financial resources, cash",
+    "category": "Education"
+  },
+  {
+    "id": 179,
+    "word": "material possessions",
+    "meaning": "",
+    "synonyms": "belongings, consumer goods, physical assets, worldly possessions, property",
+    "category": "Education"
+  },
+  {
+    "id": 180,
+    "word": "measure",
+    "meaning": "",
+    "synonyms": "assess, judge, evaluate, determine, gauge",
+    "category": "Education"
+  }
+]
